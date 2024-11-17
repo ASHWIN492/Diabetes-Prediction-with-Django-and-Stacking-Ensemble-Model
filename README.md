@@ -80,7 +80,7 @@ Ensure that the following tools are installed on your local machine:
     http://127.0.0.1:8000
     ```
 
-    This should show the home page of the diabetes prediction app. Users can input data such as:
+    This should show the Prediction page of the diabetes prediction app. Users can input data such as:
     - Age
     - BMI (Body Mass Index)
     - Glucose levels
