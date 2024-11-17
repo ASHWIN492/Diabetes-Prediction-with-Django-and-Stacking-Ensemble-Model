@@ -99,3 +99,9 @@ The stacking ensemble model in this project combines **Random Forest** and **Gra
 - **Meta-Model**:
   - **Logistic Regression**: The meta-model learns how to combine the predictions of the base models to make the final prediction.
 
+## Model Accuracy
+
+Using the hybrid stacking ensemble model, the following performance metrics were achieved:
+
+- **Training Accuracy (Stacking)**: 97.07%
+- **Validation Accuracy (Stacking)**: 92.21%
